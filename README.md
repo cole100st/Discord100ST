@@ -15,7 +15,7 @@ Accesible via le /discord (accesible a tout les joueur) a l'éxecution ce messag
 
 # 🧩  Téléchargement
 
-*[Discord100ST V1.0.0](https://github.com/cole100st/BanLife100ST)*
+*[Discord100ST V1.0.0](https://github.com/cole100st/Discord100ST/releases/tag/Discord100ST)*
 
 # 📗  Dépendance
 
